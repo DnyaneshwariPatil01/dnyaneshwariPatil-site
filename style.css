@@ -39,79 +39,46 @@ body{
     display:inline;
     padding: 0rem 1rem;
 }
+/* hero-image */
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- /* body { 
-    font-family: 'Poppins', sans-serif;
+.hero .hero-img{
+    display: block;
+    max-width: 80%;
+    margin:auto;
 }
-
-.primary-link{
-    background-color: rgb(102, 0, 255);
-    padding: 0.5rem 0.5rem;
-    color: white;
-    border-radius: 0.5rem;
-    text-decoration: none;
+.hero .hero-title{
+    text-align: center;
+    color: var(--dark-grey);
 }
-ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-.secondary-link{
-    padding: 0.5rem 0.5rem;
-    color: rgb(102, 0, 255);
-    border-radius: 0.5rem;
-   border-color: blueviolet;
-   text-decoration: none;
-   border: 1px solid;
+.my-name{
+    text-align: center;
+    color: var(--primary-color);
 }
-
-h1{
-    color:blueviolet;
-}
-nav{
-    background-color: blueviolet;
-    padding:0.5rem 0.5rem;
-    border-bottom-left-radius: 2rem;
-}
-nav a{
-    text-decoration: none;
-    text-align:center;
-color: white;
-}
-.navigation li{
-    display: inline-block;
-    padding: 0rem; 
-}
-img{
-    max-height: 200px;
-    max-width: 200px;
-}  */
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
