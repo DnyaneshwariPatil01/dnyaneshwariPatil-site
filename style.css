@@ -1,6 +1,6 @@
 :root{
     --primary-color: #0f766e;
-    --offwhite: #9ca3af;
+    --offwhite: #cbd5e1;
     --dark-grey: #374151;
 }
 body{
@@ -54,6 +54,26 @@ body{
     text-align: center;
     color: var(--primary-color);
 }
+/* section */
+.section-ow{
+    background-color: var(--offwhite);
+    text-align: center;
+    padding: 2rem;
+    color: var(--dark-grey);
+}
+.section{
+    text-align: center;
+    padding: 2rem;
+    color: var(--dark-grey);
+}
+.button{
+    text-decoration: none;
+    background-color: var(--primary-color);
+    padding: 0.8rem;
+    color: white;
+    border-radius: 0.5rem;
+}
+
  
  
  
