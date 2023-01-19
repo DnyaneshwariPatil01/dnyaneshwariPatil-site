@@ -1,7 +1,9 @@
+
 :root{
     --primary-color: #0f766e;
     --offwhite: #cbd5e1;
     --dark-grey: #374151;
+    font-family: 'Poppins', sans-serif;
 }
 body{
     margin: 0px;
